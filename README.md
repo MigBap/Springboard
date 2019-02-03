@@ -1,2 +1,2 @@
-# Springboard-github
+# Springboard
 Repository for Springboard's Data Science Career Track
