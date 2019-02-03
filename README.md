@@ -1,2 +1,2 @@
-# Springboard
-Repository for Springboard's Data Science Career Track
+# Springboard Projects
+Repository for Springboard's Data Science Career Track Projects
